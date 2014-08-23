@@ -15,6 +15,7 @@ increase visual quality and allow for physical interaction.
 Current Status
 --------------
 `Pre-Alpha: Design in progress`
+
 `Previous step completed: Feasibility verification`
 
 Capabilities
@@ -39,6 +40,6 @@ For more information, see the author's website at [g-cnp.rhcloud.com](http://g-c
 Included Libraries
 ------------------
 
-	* For CSG Support: Carve 1.4 - GNU GPL v2.0 - Tobias Sargeant [website](https://code.google.com/p/carve/)
-	* For OpenGL platform support: GLFW 3.0 - zlib\png - Marcus Geelnard|Camilla Berglund [website](http://www.glfw.org/)
-	* For OpenGL extension support: GLEW 1.1 - Modified BSD\MIT License - Milan Ikits|Marcelo Magallon|et al. [website](http://glew.sourceforge.net/)
+* For CSG Support: Carve 1.4 - GNU GPL v2.0 - Tobias Sargeant [website](https://code.google.com/p/carve/)
+* For OpenGL platform support: GLFW 3.0 - zlib\png - Marcus Geelnard|Camilla Berglund [website](http://www.glfw.org/)
+* For OpenGL extension support: GLEW 1.1 - Modified BSD\MIT License - Milan Ikits|Marcelo Magallon|et al. [website](http://glew.sourceforge.net/)
