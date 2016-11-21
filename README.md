@@ -14,28 +14,9 @@ increase visual quality and allow for physical interaction.
 
 Current Status
 --------------
-`Pre-Alpha: Design in progress`
-
-`Previous step completed: Feasibility verification`
-
-Capabilities
-------------
-**Warning:** This list may change because *Rcsg-editor* is under active design and development work.
-- Graphical design with programmatic elements, allowing the designer to model a spoon and the engineer to model a gear.
-- Material-based CSG editor, with photorealistic normal-mapped materials.
-- Recursive design, with each part and construction exported as renderable (and 3D-printable) STL files*.
-- Multi-platform open-source C++ code utilizing OpenGL 4.0.
-
-*Units are in millimeters.
-
-Author Information
-------------------
-Gustave Granroth [gus.gran@gmail.com](mailto:gus.gran@gmail.com)
-
-The author is currently employed as a software engineer in the Seattle area, having recently completed
-degrees in Nuclear Engineering, Computer Science, and Physics at the University of Wisconsin -- Madison.
-
-For more information, see the author's website at [g-cnp.rhcloud.com](http://g-cnp.rhcloud.com).
+This project is on indefinite hold as the use case I was writing this editor for -- modeling parts to use on a CNC mill or 3d printer -- 
+is not significantly improved with this design in comparison to 
+[Fusion 360] (http://www.autodesk.com/products/fusion-360/overview) or [OpenSCAD](http://www.openscad.org/).
 
 Included Libraries
 ------------------
